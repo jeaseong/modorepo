@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <a href="">zzz</a>
+      <a href="/main">zzz</a>
     </div>
   );
 }
